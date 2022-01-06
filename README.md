@@ -1,8 +1,8 @@
 # SoC - Throughput
 
 Justin Reina
+• [SoC - Throughput](https://justinreina.com/troll/Code/Ref/soc_throughput/readme.html)
 
-• [SoC - Blinky](https://github.com/MyBadTroll/soc_blinky/blob/master/doc/readme.html)
 
 
 ### Summary
